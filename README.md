@@ -1,0 +1,2 @@
+# Data Analaysis using PostgreSQL
+This project demonstrates my ability to analyze and extract insights from a large dataset using PostgreSQL. I applied various SQL techniques, including data modeling, data manipulation, and data analysis, to uncover meaningful patterns and trends in the data. Through a series of queries, I showcased my skills in data extraction, filtering, grouping, and aggregation, as well as my ability to think critically and creatively to answer complex business questions.
